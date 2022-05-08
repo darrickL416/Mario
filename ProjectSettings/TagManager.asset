@@ -9,6 +9,7 @@ TagManager:
   - beetle
   - bullet
   - Spider
+  - Coin
   layers:
   - Default
   - TransparentFX
@@ -21,9 +22,9 @@ TagManager:
   - groundLayer
   - playerLayer
   - 
+  - layer1
   - 
-  - 
-  - 
+  - ground
   - 
   - 
   - 
@@ -45,4 +46,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: layer 1
+    uniqueID: 1988512523
+    locked: 0
+  - name: New Layer
+    uniqueID: 3323229723
     locked: 0
